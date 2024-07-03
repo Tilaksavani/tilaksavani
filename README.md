@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tilak Savani</h1>
-<h3 align="center">A passionate machine learning from India</h3>
+<h3 align="center">A passionate machine learning developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tilaksavani&label=Profile%20views&color=0e75b6&style=flat" alt="tilaksavani" /> </p>
 
